@@ -1,10 +1,11 @@
 # Lab1_projekt
 
-test1	tekst2                                                                                                        tekst3
+
 ![alt text](https://github.com/s15851/Lab1_projekt/blob/master/Screenshot_15918089931.png?raw=true "WelcomePage") ![alt text](https://github.com/s15851/Lab1_projekt/blob/master/Screenshot_15918089931.png?raw=true "WelcomePage")
 <p align="center">
 test4
 </p>
+
 ![alt text](https://github.com/s15851/Lab1_projekt/blob/master/Screenshot_15918089931.png?raw=true "WelcomePage") ![alt text](https://github.com/s15851/Lab1_projekt/blob/master/Screenshot_15918089931.png?raw=true "WelcomePage")
 
 #### tekst5
