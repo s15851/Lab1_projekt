@@ -13,7 +13,7 @@
 ![alt text](https://github.com/s15851/Lab1_projekt/blob/master/sample%20screens/Screenshot_10.png)
 #
 ### Notification screen
-![alt text](https://github.com/s15851/Lab1_projekt/blob/master/sample%20screens/Screenshot_11.png)
+![alt text](https://github.com/s15851/Lab1_projekt/blob/master/sample%20screens/Screenshot_11.jpg)
 
 
 
