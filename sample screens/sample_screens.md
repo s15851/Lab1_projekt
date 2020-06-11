@@ -9,7 +9,7 @@
 ![alt text](https://github.com/s15851/Lab1_projekt/blob/master/sample%20screens/Screenshot_6.png) ![alt text](https://github.com/s15851/Lab1_projekt/blob/master/sample%20screens/Screenshot_7.png)
 ![alt text](https://github.com/s15851/Lab1_projekt/blob/master/sample%20screens/Screenshot_8.png) ![alt text](https://github.com/s15851/Lab1_projekt/blob/master/sample%20screens/Screenshot_9.png)
 #
-### Screen for selecting available functions for the invoice
+### Selection screen for available functionalities for the invoice
 ![alt text](https://github.com/s15851/Lab1_projekt/blob/master/sample%20screens/Screenshot_10.png)
 #
 ### Notification screen
